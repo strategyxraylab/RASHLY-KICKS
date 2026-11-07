@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#090a0c">
+<title>Clothing | RASHLY KICKS</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="header">
+  <a class="logo" href="index.html">RASHLY<span>KICKS.</span></a>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="shoes.html">Shoes</a>
+    <a href="clothing.html">Clothing</a>
+  </nav>
+  <button class="cart-button" id="cart-toggle">BAG <span id="cart-count">0</span></button>
+</header>
+
+<main>
+<section class="clothing-hero">
+  <p class="eyebrow">MORE STYLE. MORE EXPRESSION.</p>
+  <h1>THE CLOTHING<br><span>COLLECTION.</span></h1>
+  <p>New fashion pieces are coming to RASHLY KICKS.</p>
+  <a href="shoes.html" class="primary-button">EXPLORE SNEAKERS ↗</a>
+  <div class="coming-soon">CLOTHING COLLECTION — COMING SOON</div>
+</section>
+</main>
+
+<footer>
+  <a class="logo" href="index.html">RASHLY<span>KICKS.</span></a>
+  <p>STEP INTO GREATNESS.</p>
+  <small>© 2026 RASHLY KICKS. ALL RIGHTS RESERVED.</small>
+</footer>
+
+<div class="cart-overlay" id="cart-overlay"></div>
+<aside class="cart-panel" id="cart-panel">
+  <div class="cart-heading"><h2>YOUR BAG</h2><button id="cart-close">✕</button></div>
+  <div id="cart-items" class="cart-items"></div>
+  <div class="cart-bottom">
+    <div class="total-row"><span>TOTAL</span><strong id="cart-total">KSh 0</strong></div>
+    <button id="checkout" class="primary-button checkout-button">ORDER ON WHATSAPP ↗</button>
+  </div>
+</aside>
+
+<script src="js/products.js"></script>
+<script src="js/store.js"></script>
+</body>
+</html>

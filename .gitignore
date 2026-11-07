@@ -1,0 +1,13 @@
+# Private backups
+backups/
+*.backup
+*.bak
+
+# Development-only contact sheet
+assets/images/sneaker-contact-sheet.jpg
+
+# Local environment files
+.env
+.env.*
+__pycache__/
+*.pyc
