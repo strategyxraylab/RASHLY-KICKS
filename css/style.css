@@ -830,3 +830,133 @@ footer p, footer small {
   .catalogue-tools { align-items: flex-start; flex-direction: column; }
   .catalogue-tools select { width: 100%; }
 }
+
+
+/* RASHLY KICKS — PREMIUM BRAND IDENTITY */
+.header {
+  min-height: 100px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.logo {
+  display: grid;
+  grid-template-columns: auto auto;
+  align-items: end;
+  justify-content: start;
+  column-gap: 7px;
+  row-gap: 1px;
+  flex-shrink: 0;
+  line-height: 1;
+  letter-spacing: 0;
+}
+
+.logo .brand-word {
+  color: #fff;
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: clamp(29px, 3.5vw, 43px);
+  font-weight: 900;
+  letter-spacing: -2.8px;
+  line-height: .9;
+  text-shadow: 0 2px 20px rgba(255,255,255,.09);
+}
+
+.logo .brand-kicks {
+  color: var(--orange);
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: clamp(29px, 3.5vw, 43px);
+  font-weight: 900;
+  letter-spacing: -2.5px;
+  line-height: .9;
+  text-shadow: 0 2px 22px rgba(255,113,56,.2);
+}
+
+.logo .brand-dot {
+  color: #fff;
+}
+
+.logo .brand-tagline {
+  grid-column: 1 / -1;
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  margin-top: 5px;
+  color: #96999f;
+  font-size: 8px;
+  font-weight: 800;
+  letter-spacing: 2px;
+}
+
+.logo .brand-nike {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  color: #fff;
+  font-size: 9px;
+  font-weight: 900;
+  letter-spacing: 1px;
+}
+
+.logo .brand-nike svg {
+  width: 29px;
+  height: 13px;
+  color: var(--orange);
+  display: block;
+}
+
+@media(max-width:750px) {
+  .header {
+    display: grid;
+    grid-template-columns: minmax(0,1fr) auto;
+    gap: 9px 8px;
+    min-height: auto;
+    padding: 12px 4%;
+  }
+
+  .logo {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  .logo .brand-word,
+  .logo .brand-kicks {
+    font-size: clamp(25px, 7vw, 34px);
+    letter-spacing: -2px;
+  }
+
+  .logo .brand-tagline {
+    font-size: 7px;
+    letter-spacing: 1.3px;
+    gap: 6px;
+  }
+
+  .logo .brand-nike svg {
+    width: 24px;
+  }
+
+  .header nav {
+    grid-column: 1 / -1;
+    grid-row: 2;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 17px;
+    padding: 8px 0 2px;
+  }
+
+  .header .cart-button {
+    grid-column: 2;
+    grid-row: 1;
+    white-space: nowrap;
+  }
+}
+
+@media(max-width:380px) {
+  .header nav {
+    gap: 12px;
+  }
+
+  .logo .brand-word,
+  .logo .brand-kicks {
+    font-size: 25px;
+  }
+}
