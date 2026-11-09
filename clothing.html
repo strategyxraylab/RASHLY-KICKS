@@ -9,7 +9,7 @@
 <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="css/style.css">
 </head>
-<body>
+<body class="clothing-page" data-store-category="clothing">
 <header class="header">
   <a class="logo" href="index.html" aria-label="Rashly Kicks home">
   <span class="brand-word">RASHLY</span>
@@ -31,15 +31,29 @@
   <button class="cart-button" id="cart-toggle">BAG <span id="cart-count">0</span></button>
 </header>
 
+
 <main>
-<section class="clothing-hero">
-  <p class="eyebrow">MORE STYLE. MORE EXPRESSION.</p>
-  <h1>THE CLOTHING<br><span>COLLECTION.</span></h1>
-  <p>New fashion pieces are coming to RASHLY KICKS.</p>
-  <a href="shoes.html" class="primary-button">EXPLORE SNEAKERS ↗</a>
-  <div class="coming-soon">CLOTHING COLLECTION — COMING SOON</div>
-</section>
+  <section class="clothing-hero">
+    <p class="eyebrow">MORE STYLE. MORE EXPRESSION.</p>
+    <h1>THE CLOTHING<br><span>COLLECTION.</span></h1>
+    <p>Discover fresh fashion styles at RASHLY KICKS.</p>
+    <a href="shoes.html" class="primary-button">EXPLORE SNEAKERS ↗</a>
+  </section>
+
+  <section class="product-section">
+    <div class="section-heading">
+      <p class="eyebrow">RASHLY STYLE</p>
+      <h2>THE CLOTHING SELECTION</h2>
+      <p id="catalogue-count">Loading clothing...</p>
+    </div>
+    <div class="product-grid" id="product-grid"></div>
+    <p class="catalogue-note">
+      Clothing selection and sizes are subject to availability.
+      Please confirm product details before ordering.
+    </p>
+  </section>
 </main>
+
 
 <footer>
   <a class="logo" href="index.html">RASHLY<span>KICKS.</span></a>

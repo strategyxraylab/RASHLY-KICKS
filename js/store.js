@@ -3,6 +3,8 @@
 
 const WHATSAPP_NUMBER = "254716397341";
 const products = window.RASHLY_PRODUCTS || [];
+const storeCategory = document.body.dataset.storeCategory || "shoes";
+const catalogueProducts = products.filter(product => product.type === storeCategory);
 const CART_KEY = "rashly_kicks_cart";
 
 const $ = id => document.getElementById(id);
@@ -30,8 +32,8 @@ function renderProducts(filter = "All") {
   if (!grid) return;
 
   const visible = filter === "All"
-    ? products
-    : products.filter(product => product.brand === filter);
+    ? catalogueProducts
+    : catalogueProducts.filter(product => product.brand === filter);
 
   const count = $("catalogue-count");
   if (count) count.textContent = `${visible.length} styles available`;
@@ -87,13 +89,13 @@ function renderProductDetail() {
         <h1>${product.name}</h1>
         <p class="detail-price">${money(product.price)}</p>
         <p class="detail-description">${product.description}</p>
-        <label class="size-label" for="shoe-size">SELECT YOUR SHOE SIZE</label>
+        <label class="size-label" for="shoe-size">${product.type === "clothing" ? "SELECT YOUR CLOTHING SIZE" : "SELECT YOUR SHOE SIZE"}</label>
         <select id="shoe-size" class="size-select" required>
           <option value="">Choose size</option>
           ${product.sizes.map(size => `<option value="${size}">${size}</option>`).join("")}
         </select>
         <button id="detail-add" class="detail-add-button">ADD TO BAG +</button>
-        <p class="detail-note">Sizes 39–45. Please confirm availability with our shop.</p>
+        <p class="detail-note">${product.type === "clothing" ? "Clothing sizes S–XXL. Please confirm availability with our shop." : "Shoe sizes 39–45. Please confirm availability with our shop."}</p>
       </div>
     </div>
   `;
@@ -107,7 +109,7 @@ function renderProductDetail() {
       return;
     }
 
-    addToCart(product.id, Number(size));
+    addToCart(product.id, product.type === "shoes" ? Number(size) : size);
   });
 }
 
@@ -176,7 +178,7 @@ function renderCart() {
         <div class="cart-item-details">
           <h4>${product.name}</h4>
           <p>${money(product.price)}</p>
-          <p class="cart-item-size">Shoe size: ${item.size}</p>
+          <p class="cart-item-size">${product.type === "clothing" ? "Clothing size" : "Shoe size"}: ${item.size}</p>
           <div class="cart-quantity">
             <button data-action="minus" data-index="${index}">−</button>
             <span>${item.quantity}</span>

@@ -15,7 +15,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this Adidas Samba style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this Adidas Samba style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 2,
@@ -33,7 +34,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this Nike Air Force 1 style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this Nike Air Force 1 style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 3,
@@ -51,7 +53,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this New Balance style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this New Balance style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 4,
@@ -69,7 +72,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this Axel style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this Axel style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 5,
@@ -87,7 +91,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this Adidas Samba style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this Adidas Samba style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 6,
@@ -105,7 +110,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this Adidas Samba style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this Adidas Samba style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 7,
@@ -123,7 +129,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this New Balance style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this New Balance style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 8,
@@ -141,7 +148,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this Naked Wolfe style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this Naked Wolfe style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 9,
@@ -159,7 +167,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this New Balance style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this New Balance style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 10,
@@ -177,7 +186,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this New Balance style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this New Balance style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 11,
@@ -195,7 +205,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this New Balance style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this New Balance style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 12,
@@ -213,7 +224,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this Jordan style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this Jordan style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 13,
@@ -231,7 +243,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this Shox style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this Shox style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 14,
@@ -249,7 +262,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this New Balance style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this New Balance style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 15,
@@ -267,7 +281,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this Jordan style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this Jordan style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 16,
@@ -285,7 +300,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this Vans style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this Vans style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 17,
@@ -303,7 +319,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this Sports Shoes style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this Sports Shoes style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 18,
@@ -321,7 +338,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this New Balance style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this New Balance style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 19,
@@ -339,7 +357,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this Nike Air Max style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this Nike Air Max style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 20,
@@ -357,7 +376,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this Nike Air Max style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this Nike Air Max style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 21,
@@ -375,7 +395,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this Nike Air Force 1 style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this Nike Air Force 1 style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 22,
@@ -393,7 +414,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this Jordan style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this Jordan style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 23,
@@ -411,7 +433,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this Nike Air Force 1 style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this Nike Air Force 1 style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 24,
@@ -429,7 +452,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this Nike Air Force 1 style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this Nike Air Force 1 style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 25,
@@ -447,7 +471,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this Jordan style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this Jordan style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 26,
@@ -465,7 +490,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this Nike Air Max style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this Nike Air Max style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 27,
@@ -483,7 +509,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this New Balance style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this New Balance style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 28,
@@ -501,7 +528,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this Nike Air Max style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this Nike Air Max style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 29,
@@ -519,7 +547,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this Jordan style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this Jordan style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 30,
@@ -537,7 +566,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this Jordan style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this Jordan style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 31,
@@ -555,7 +585,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this One-Cut Minimalist Sneakers style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this One-Cut Minimalist Sneakers style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 32,
@@ -573,7 +604,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this Jordan style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this Jordan style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 33,
@@ -591,7 +623,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this Sports Shoes style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this Sports Shoes style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 34,
@@ -609,7 +642,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this Adidas Samba style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this Adidas Samba style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 35,
@@ -627,7 +661,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this Jordan style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this Jordan style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 36,
@@ -645,7 +680,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this Jordan style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this Jordan style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 37,
@@ -663,7 +699,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this Adidas Samba style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this Adidas Samba style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 38,
@@ -681,7 +718,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this Sports Shoes style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this Sports Shoes style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 39,
@@ -699,7 +737,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this Nike Air Max style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this Nike Air Max style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 40,
@@ -717,7 +756,8 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this Nike Air Max style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this Nike Air Max style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
   },
   {
     "id": 41,
@@ -735,6 +775,534 @@ window.RASHLY_PRODUCTS = [
       44,
       45
     ],
-    "description": "Explore this Timberland style at RASHLY KICKS. Contact us to confirm availability, fit and product details."
+    "description": "Explore this Timberland style at RASHLY KICKS. Contact us to confirm availability, fit and product details.",
+    "type": "shoes"
+  },
+  {
+    "id": 42,
+    "type": "clothing",
+    "name": "Grey Streetwear Set",
+    "brand": "RASHLY STYLE",
+    "category": "Clothing",
+    "image": "assets/images/clothes/clothing-01.jpg",
+    "price": 2800,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Grey Streetwear Set. Selected for the RASHLY KICKS clothing collection. Available sizes S–XXL, subject to stock confirmation. Please confirm exactly what is included before ordering."
+  },
+  {
+    "id": 43,
+    "type": "clothing",
+    "name": "White Graphic Hoodie Set",
+    "brand": "RASHLY STYLE",
+    "category": "Clothing",
+    "image": "assets/images/clothes/clothing-02.jpg",
+    "price": 3200,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "White Graphic Hoodie Set. Selected for the RASHLY KICKS clothing collection. Available sizes S–XXL, subject to stock confirmation. Please confirm exactly what is included before ordering."
+  },
+  {
+    "id": 44,
+    "type": "clothing",
+    "name": "Ice Blue Casual Outfit",
+    "brand": "RASHLY STYLE",
+    "category": "Clothing",
+    "image": "assets/images/clothes/clothing-03.jpg",
+    "price": 3500,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Ice Blue Casual Outfit. Selected for the RASHLY KICKS clothing collection. Available sizes S–XXL, subject to stock confirmation. Please confirm exactly what is included before ordering."
+  },
+  {
+    "id": 45,
+    "type": "clothing",
+    "name": "Beige Hoodie & Black Joggers",
+    "brand": "RASHLY STYLE",
+    "category": "Clothing",
+    "image": "assets/images/clothes/clothing-04.jpg",
+    "price": 3200,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Beige Hoodie & Black Joggers. Selected for the RASHLY KICKS clothing collection. Available sizes S–XXL, subject to stock confirmation. Please confirm exactly what is included before ordering."
+  },
+  {
+    "id": 46,
+    "type": "clothing",
+    "name": "Cream Sporty Tracksuit",
+    "brand": "RASHLY STYLE",
+    "category": "Clothing",
+    "image": "assets/images/clothes/clothing-05.jpg",
+    "price": 2800,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Cream Sporty Tracksuit. Selected for the RASHLY KICKS clothing collection. Available sizes S–XXL, subject to stock confirmation. Please confirm exactly what is included before ordering."
+  },
+  {
+    "id": 47,
+    "type": "clothing",
+    "name": "Burgundy Shirt & Grey Jeans",
+    "brand": "RASHLY STYLE",
+    "category": "Clothing",
+    "image": "assets/images/clothes/clothing-06.jpg",
+    "price": 3400,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Burgundy Shirt & Grey Jeans. Selected for the RASHLY KICKS clothing collection. Available sizes S–XXL, subject to stock confirmation. Please confirm exactly what is included before ordering."
+  },
+  {
+    "id": 48,
+    "type": "clothing",
+    "name": "Urban Utility Jacket Set",
+    "brand": "RASHLY STYLE",
+    "category": "Clothing",
+    "image": "assets/images/clothes/clothing-07.jpg",
+    "price": 4500,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Urban Utility Jacket Set. Selected for the RASHLY KICKS clothing collection. Available sizes S–XXL, subject to stock confirmation. Please confirm exactly what is included before ordering."
+  },
+  {
+    "id": 49,
+    "type": "clothing",
+    "name": "Beige Varsity Jacket Outfit",
+    "brand": "RASHLY STYLE",
+    "category": "Clothing",
+    "image": "assets/images/clothes/clothing-08.jpg",
+    "price": 4800,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Beige Varsity Jacket Outfit. Selected for the RASHLY KICKS clothing collection. Available sizes S–XXL, subject to stock confirmation. Please confirm exactly what is included before ordering."
+  },
+  {
+    "id": 50,
+    "type": "clothing",
+    "name": "Plaid Overshirt & Cargo Pants",
+    "brand": "RASHLY STYLE",
+    "category": "Clothing",
+    "image": "assets/images/clothes/clothing-09.jpg",
+    "price": 3800,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Plaid Overshirt & Cargo Pants. Selected for the RASHLY KICKS clothing collection. Available sizes S–XXL, subject to stock confirmation. Please confirm exactly what is included before ordering."
+  },
+  {
+    "id": 51,
+    "type": "clothing",
+    "name": "Girl Power Tee & Ripped Jeans",
+    "brand": "RASHLY STYLE",
+    "category": "Clothing",
+    "image": "assets/images/clothes/clothing-10.jpg",
+    "price": 2800,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Girl Power Tee & Ripped Jeans. Selected for the RASHLY KICKS clothing collection. Available sizes S–XXL, subject to stock confirmation. Please confirm exactly what is included before ordering."
+  },
+  {
+    "id": 52,
+    "type": "clothing",
+    "name": "Black Jacket & Wide-Leg Jeans",
+    "brand": "RASHLY STYLE",
+    "category": "Clothing",
+    "image": "assets/images/clothes/clothing-11.jpg",
+    "price": 4500,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Black Jacket & Wide-Leg Jeans. Selected for the RASHLY KICKS clothing collection. Available sizes S–XXL, subject to stock confirmation. Please confirm exactly what is included before ordering."
+  },
+  {
+    "id": 53,
+    "type": "clothing",
+    "name": "Varsity 28 Tracksuit Set",
+    "brand": "RASHLY STYLE",
+    "category": "Clothing",
+    "image": "assets/images/clothes/clothing-12.jpg",
+    "price": 3800,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Varsity 28 Tracksuit Set. Selected for the RASHLY KICKS clothing collection. Available sizes S–XXL, subject to stock confirmation. Please confirm exactly what is included before ordering."
+  },
+  {
+    "id": 54,
+    "type": "clothing",
+    "name": "Teal Casual Shirt Set",
+    "brand": "RASHLY STYLE",
+    "category": "Clothing",
+    "image": "assets/images/clothes/clothing-13.jpg",
+    "price": 3500,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Teal Casual Shirt Set. Selected for the RASHLY KICKS clothing collection. Available sizes S–XXL, subject to stock confirmation. Please confirm exactly what is included before ordering."
+  },
+  {
+    "id": 55,
+    "type": "clothing",
+    "name": "Classic Camel Coat Outfit",
+    "brand": "RASHLY STYLE",
+    "category": "Clothing",
+    "image": "assets/images/clothes/clothing-14.jpg",
+    "price": 5500,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Classic Camel Coat Outfit. Selected for the RASHLY KICKS clothing collection. Available sizes S–XXL, subject to stock confirmation. Please confirm exactly what is included before ordering."
+  },
+  {
+    "id": 56,
+    "type": "clothing",
+    "name": "Argyle Knit & Denim Outfit",
+    "brand": "RASHLY STYLE",
+    "category": "Clothing",
+    "image": "assets/images/clothes/clothing-15.jpg",
+    "price": 3800,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Argyle Knit & Denim Outfit. Selected for the RASHLY KICKS clothing collection. Available sizes S–XXL, subject to stock confirmation. Please confirm exactly what is included before ordering."
+  },
+  {
+    "id": 57,
+    "type": "clothing",
+    "name": "Brown Plaid & Distressed Jeans",
+    "brand": "RASHLY STYLE",
+    "category": "Clothing",
+    "image": "assets/images/clothes/clothing-16.jpg",
+    "price": 3500,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Brown Plaid & Distressed Jeans. Selected for the RASHLY KICKS clothing collection. Available sizes S–XXL, subject to stock confirmation. Please confirm exactly what is included before ordering."
+  },
+  {
+    "id": 58,
+    "type": "clothing",
+    "name": "Cream Cardigan Casual Set",
+    "brand": "RASHLY STYLE",
+    "category": "Clothing",
+    "image": "assets/images/clothes/clothing-17.jpg",
+    "price": 3800,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Cream Cardigan Casual Set. Selected for the RASHLY KICKS clothing collection. Available sizes S–XXL, subject to stock confirmation. Please confirm exactly what is included before ordering."
+  },
+  {
+    "id": 59,
+    "type": "clothing",
+    "name": "Blue Crop Top & Denim Set",
+    "brand": "RASHLY STYLE",
+    "category": "Clothing",
+    "image": "assets/images/clothes/clothing-18.jpg",
+    "price": 3500,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Blue Crop Top & Denim Set. Selected for the RASHLY KICKS clothing collection. Available sizes S–XXL, subject to stock confirmation. Please confirm exactly what is included before ordering."
+  },
+  {
+    "id": 60,
+    "type": "clothing",
+    "name": "Green Sports Jersey Outfit",
+    "brand": "RASHLY STYLE",
+    "category": "Clothing",
+    "image": "assets/images/clothes/clothing-19.jpg",
+    "price": 3000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Green Sports Jersey Outfit. Selected for the RASHLY KICKS clothing collection. Available sizes S–XXL, subject to stock confirmation. Please confirm exactly what is included before ordering."
+  },
+  {
+    "id": 61,
+    "type": "clothing",
+    "name": "Dark Green Streetwear Set",
+    "brand": "RASHLY STYLE",
+    "category": "Clothing",
+    "image": "assets/images/clothes/clothing-20.jpg",
+    "price": 3000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Dark Green Streetwear Set. Selected for the RASHLY KICKS clothing collection. Available sizes S–XXL, subject to stock confirmation. Please confirm exactly what is included before ordering."
+  },
+  {
+    "id": 62,
+    "type": "clothing",
+    "name": "Navy Shirt & White Trousers",
+    "brand": "RASHLY STYLE",
+    "category": "Clothing",
+    "image": "assets/images/clothes/clothing-21.jpg",
+    "price": 3500,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Navy Shirt & White Trousers. Selected for the RASHLY KICKS clothing collection. Available sizes S–XXL, subject to stock confirmation. Please confirm exactly what is included before ordering."
+  },
+  {
+    "id": 63,
+    "type": "clothing",
+    "name": "Number 90 Sportswear Set",
+    "brand": "RASHLY STYLE",
+    "category": "Clothing",
+    "image": "assets/images/clothes/clothing-22.jpg",
+    "price": 2800,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Number 90 Sportswear Set. Selected for the RASHLY KICKS clothing collection. Available sizes S–XXL, subject to stock confirmation. Please confirm exactly what is included before ordering."
+  },
+  {
+    "id": 64,
+    "type": "clothing",
+    "name": "Black Graphic Tracksuit",
+    "brand": "RASHLY STYLE",
+    "category": "Clothing",
+    "image": "assets/images/clothes/clothing-23.jpg",
+    "price": 3500,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Black Graphic Tracksuit. Selected for the RASHLY KICKS clothing collection. Available sizes S–XXL, subject to stock confirmation. Please confirm exactly what is included before ordering."
+  },
+  {
+    "id": 65,
+    "type": "clothing",
+    "name": "Olive Casual Jumpsuit Outfit",
+    "brand": "RASHLY STYLE",
+    "category": "Clothing",
+    "image": "assets/images/clothes/clothing-24.jpg",
+    "price": 3000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Olive Casual Jumpsuit Outfit. Selected for the RASHLY KICKS clothing collection. Available sizes S–XXL, subject to stock confirmation. Please confirm exactly what is included before ordering."
+  },
+  {
+    "id": 66,
+    "type": "clothing",
+    "name": "Navy Sweatshirt & Wide Jeans",
+    "brand": "RASHLY STYLE",
+    "category": "Clothing",
+    "image": "assets/images/clothes/clothing-25.jpg",
+    "price": 3500,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Navy Sweatshirt & Wide Jeans. Selected for the RASHLY KICKS clothing collection. Available sizes S–XXL, subject to stock confirmation. Please confirm exactly what is included before ordering."
+  },
+  {
+    "id": 67,
+    "type": "clothing",
+    "name": "Sport Polo & Denim Shorts",
+    "brand": "RASHLY STYLE",
+    "category": "Clothing",
+    "image": "assets/images/clothes/clothing-26.jpg",
+    "price": 3000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Sport Polo & Denim Shorts. Selected for the RASHLY KICKS clothing collection. Available sizes S–XXL, subject to stock confirmation. Please confirm exactly what is included before ordering."
+  },
+  {
+    "id": 68,
+    "type": "clothing",
+    "name": "Premium Graphic Tee & Jeans",
+    "brand": "RASHLY STYLE",
+    "category": "Clothing",
+    "image": "assets/images/clothes/clothing-27.jpg",
+    "price": 3500,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Premium Graphic Tee & Jeans. Selected for the RASHLY KICKS clothing collection. Available sizes S–XXL, subject to stock confirmation. Please confirm exactly what is included before ordering."
+  },
+  {
+    "id": 69,
+    "type": "clothing",
+    "name": "Olive Jacket & Beige Trousers",
+    "brand": "RASHLY STYLE",
+    "category": "Clothing",
+    "image": "assets/images/clothes/clothing-28.jpg",
+    "price": 4500,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Olive Jacket & Beige Trousers. Selected for the RASHLY KICKS clothing collection. Available sizes S–XXL, subject to stock confirmation. Please confirm exactly what is included before ordering."
+  },
+  {
+    "id": 70,
+    "type": "clothing",
+    "name": "Black Leather-Look Jacket Set",
+    "brand": "RASHLY STYLE",
+    "category": "Clothing",
+    "image": "assets/images/clothes/clothing-29.jpg",
+    "price": 5000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Black Leather-Look Jacket Set. Selected for the RASHLY KICKS clothing collection. Available sizes S–XXL, subject to stock confirmation. Please confirm exactly what is included before ordering."
+  },
+  {
+    "id": 71,
+    "type": "clothing",
+    "name": "Cream Jacket & Light Denim Set",
+    "brand": "RASHLY STYLE",
+    "category": "Clothing",
+    "image": "assets/images/clothes/clothing-30.jpg",
+    "price": 4500,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Cream Jacket & Light Denim Set. Selected for the RASHLY KICKS clothing collection. Available sizes S–XXL, subject to stock confirmation. Please confirm exactly what is included before ordering."
+  },
+  {
+    "id": 72,
+    "type": "clothing",
+    "name": "Black Leather-Look Streetwear Set",
+    "brand": "RASHLY STYLE",
+    "category": "Clothing",
+    "image": "assets/images/clothes/clothing-31.jpg",
+    "price": 5000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "Black Leather-Look Streetwear Set. Selected for the RASHLY KICKS clothing collection. Available sizes S–XXL, subject to stock confirmation. Please confirm exactly what is included before ordering."
   }
 ];

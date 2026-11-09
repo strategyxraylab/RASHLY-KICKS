@@ -960,3 +960,49 @@ footer p, footer small {
     font-size: 25px;
   }
 }
+
+
+/* RASHLY KICKS — CLOTHING COLLECTION */
+.clothing-page .clothing-hero {
+  padding: 85px 6% 65px;
+  text-align: center;
+  background: radial-gradient(ellipse at 50% 0%, rgba(212,175,55,.16), transparent 60%), #090a0c;
+}
+.clothing-page .clothing-hero h1 {
+  font-family: "Space Grotesk", sans-serif;
+  font-size: clamp(2.5rem, 8vw, 5.5rem);
+  line-height: 1.02;
+  margin: 18px 0;
+  letter-spacing: -.05em;
+}
+.clothing-page .clothing-hero h1 span { color: #d4af37; }
+.clothing-page .clothing-hero > p:not(.eyebrow) { color: #b8b8b8; margin: 18px auto 28px; }
+.clothing-page .catalogue-section { padding: 55px 5%; }
+.clothing-page .catalogue-heading {
+  display: flex; align-items: end; justify-content: space-between;
+  gap: 20px; margin-bottom: 30px;
+}
+.clothing-page .catalogue-heading h2 {
+  font-family: "Space Grotesk", sans-serif;
+  font-size: clamp(1.5rem, 4vw, 2.5rem);
+}
+.clothing-page #catalogue-count { color: #d4af37; font-size: .9rem; }
+.clothing-page .product-grid {
+  display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 22px;
+}
+.clothing-page .product-image { aspect-ratio: 3 / 4; overflow: hidden; background: #151515; }
+.clothing-page .product-image img {
+  width: 100%; height: 100%; object-fit: cover; display: block;
+  transition: transform .4s ease;
+}
+.clothing-page .product-card:hover .product-image img { transform: scale(1.045); }
+.clothing-page .clothing-disclaimer { color: #aaa; font-size: .85rem; line-height: 1.7; margin-top: 30px; }
+@media (max-width: 900px) {
+  .clothing-page .product-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
+@media (max-width: 600px) {
+  .clothing-page .clothing-hero { padding: 65px 5% 50px; }
+  .clothing-page .catalogue-section { padding: 38px 4%; }
+  .clothing-page .product-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 13px; }
+  .clothing-page .catalogue-heading { align-items: start; flex-direction: column; }
+}
